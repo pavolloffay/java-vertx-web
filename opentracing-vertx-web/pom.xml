@@ -27,7 +27,7 @@
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
-      <version>${version.io.vertx}</version>
+      <version>3.6.0-SNAPSHOT</version>
     </dependency>
 
     <dependency>
